@@ -30,6 +30,11 @@ O projeto tem como objetivo promover o acesso a medicamentos por meio do reaprov
 * Status: online / instável / em manutenção (atualize conforme o caso)
 * Ambiente: produção / homologação
 
+**Acesso rápido (Homologação)**
+* URL da aplicação: https://hmgprojectmedshare.azurewebsites.net/
+* Status: online (Em construção)
+* Ambiente: homologação
+
 **Usuário(s) de teste (se houver):**
 * Login: usuario_teste
 * Senha: senha_teste
