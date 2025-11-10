@@ -26,13 +26,13 @@ O projeto tem como objetivo promover o acesso a medicamentos por meio do reaprov
 ## Instruções de Instalação, Execução e Acesso
 
 **Acesso rápido (produção)**
-* URL da aplicação: https://seu-dominio.com/caminho
-* Status: online / instável / em manutenção (atualize conforme o caso)
-* Ambiente: produção / homologação
+* URL da aplicação: https://seu-dominio.com/caminh
+* Status: Em breve
+* Ambiente: produção 
 
 **Acesso rápido (Homologação)**
 * URL da aplicação: https://hmgprojectmedshare.azurewebsites.net/
-* Status: online (Em construção)
+* Status: online
 * Ambiente: homologação
 
 **Usuário(s) de teste (se houver):**
